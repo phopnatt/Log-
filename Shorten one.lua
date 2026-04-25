@@ -17,4 +17,4 @@ getgenv().ConfigHorstGrandPieceOnline = {
     }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HorstSpaceX/last_update/main/on_loaded.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/phopnatt/Log-/refs/heads/main/GPOMA.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/phopnatt/Log-/refs/heads/main/Nogetgenv%20ontop.lua"))()
